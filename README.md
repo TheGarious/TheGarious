@@ -16,7 +16,7 @@
 If you want and can, you can [sponsor me](https://github.com/sponsors/TheGarious) to continue to work on open source projets
 
 <p align="center">
-[![TheGarious's github stats](https://github-readme-stats.vercel.app/api?username=thegarious&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![TheGarious's github stats](https://github-readme-stats.vercel.app/api?username=thegarious&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
