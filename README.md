@@ -10,5 +10,7 @@
 
 
 <p align="center">
+  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="garyhoubre" data-color="#FFDD00" data-emoji="🍺"  data-font="Cookie" data-text="Buy me a Beer" data-outline-color="#000" data-font-color="#000" data-coffee-color="#fff" ></script>
+  
 <a href="https://www.buymeacoffee.com/garyhoubre" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </p>
