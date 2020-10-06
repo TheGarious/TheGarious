@@ -19,7 +19,7 @@ If you want and can, you can [sponsor me](https://github.com/sponsors/TheGarious
 [![TheGarious's Github stats](https://github-readme-stats.vercel.app/api?username=thegarious)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://www.buymeacoffee.com/garyhoubre" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Beer" style="height: 60px !important;width: 30% !important;" ></a>
+<a href="https://www.buymeacoffee.com/garyhoubre" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Beer" style="height: 30px !important;width: 30% !important;" ></a>
 </p>
 
 
