@@ -6,11 +6,23 @@
 - 🇫🇷 I'm French, i can speak 🇬🇧
 - ⚡ Fun fact: 🦄 is my way
 
-[![TheGarious's github stats](https://github-readme-stats.vercel.app/api?username=thegarious&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## My Participation for open source:
+- 🎵 Symfony and Symfony-docs
+- 🛠 Composer
+- ⌨ Personnal Project
+- and I contribute to many other projects
+- if you want i contribute for your project send me an email :)
 
+If you want and can, you can [sponsor me](https://github.com/sponsors/TheGarious) to continue to work on open source projets
 
 <p align="center">
-  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="garyhoubre" data-color="#FFDD00" data-emoji="🍺"  data-font="Cookie" data-text="Buy me a Beer" data-outline-color="#000" data-font-color="#000" data-coffee-color="#fff" ></script>
-  
-<a href="https://www.buymeacoffee.com/garyhoubre" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+[![TheGarious's github stats](https://github-readme-stats.vercel.app/api?username=thegarious&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/garyhoubre" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Beer" style="height: 60px !important;width: 30% !important;" ></a>
+</p>
+
+
+
+
