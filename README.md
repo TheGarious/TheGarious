@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gary 🦄
 
-- 🏢 I’m currently working on [QimInfo](http://www.qiminfo.ch/) in mission for [IRU](https://iru.org)
+- 🏢 I’m currently working on [IRU](https://iru.org)
 - 🌱 I’m currently working in same time on freelance ...
 - ✍ I write [blog posts](https://blog.gary-houbre.fr)
 - 🇫🇷 I'm French, i can speak 🇬🇧
